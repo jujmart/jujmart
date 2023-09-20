@@ -2,7 +2,7 @@
 
 I'm a full-stack web developer looking to get more experience in back-end coding. 🗄️
 
-- I’m currently working on my latest portfolio project [TechKnowBuild](https://techknowbuild.herokuapp.com) 🔭
+- My latest portfolio project is [TechKnowBuild](https://techknowbuild.herokuapp.com) 🔭
 - I have experience working in JavaScript, Python, React, and more. 🧠
 - Fun Fact: I spent a couple of years learning to be ambidextrous ✍️ 🤚 ✋
 
